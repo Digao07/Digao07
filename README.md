@@ -7,7 +7,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de programação em python
+  |  Python |  SQL  |  CSS  |  HTML  |
   
 </div>
 <div align="center">
