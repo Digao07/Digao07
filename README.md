@@ -20,10 +20,8 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-</div>
-<div align="center">
-  <a href="https://github.com/Digao07">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossnefario&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Digao07) [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=digao07&layout=compact&theme=cobalt' height ='195'>](https://github.com/Digao07/Ultima-projetos)
+    
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digao07&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Digao07) [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=digao07&layout=compact&theme=cobalt' height ='195'>](https://github.com/Digao07/Ultima-projetos)
     
    ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Digao07&theme=cobalt)
    
