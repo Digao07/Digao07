@@ -22,8 +22,6 @@
 
     
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digao07&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Digao07) [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=digao07&layout=compact&theme=cobalt' height ='195'>](https://github.com/Digao07/Ultima-projetos)
-    
-   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Digao07&theme=cobalt)
    
   </a>
 </div>
