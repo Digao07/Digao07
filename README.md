@@ -6,14 +6,27 @@
     <a href="https://www.linkedin.com/in/rodrigo-barros-da-silva-73352526b/">Rodrigo Barros😃️</a>
   </h1>
   
-  <p align="center">
-  |  Python |  SQL  |  CSS  |  HTML  |
-  
+ # Skills
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+  # Tools
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
 </div>
 <div align="center">
   <a href="https://github.com/Digao07">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Digao07&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digao07&theme=dracula&hide_border=false&&layout=compact"/>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossnefario&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Digao07) [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=digao07&layout=compact&theme=cobalt' height ='195'>](https://github.com/Digao07/Ultima-projetos)
+    
+   ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Digao07&theme=cobalt)
+   
   </a>
 </div>
 <div align="center" valign="top"><br>
