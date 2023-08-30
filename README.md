@@ -20,7 +20,7 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digao07&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Digao07) [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=digao07&layout=compact&theme=cobalt' height ='195'>](https://github.com/Digao07)
+[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=digao07&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Digao07) [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=digao07&layout=compact&theme=cobalt' height ='195'>](https://github.com/Digao07)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=digao07&bg_color=ffffff&color=000000&line=ff0000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
@@ -30,7 +30,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+
 <div align="center" valign="top"><br>
   <a href="https://www.instagram.com/digaao07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-barros-da-silva-73352526b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
