@@ -22,7 +22,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digao07&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Digao07) [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=digao07&layout=compact&theme=cobalt' height ='195'>](https://github.com/Digao07)
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Digao07&theme=cobalt)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Digao07&bg_color=000000&color=f90101&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
   </a>
 </div>
