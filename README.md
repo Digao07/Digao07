@@ -21,7 +21,7 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
     
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digao07&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Digao07) [<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=digao07&layout=compact&theme=cobalt' height ='195'>](https://github.com/Digao07)
+ ![Digao07's Stats](https://github-readme-stats.vercel.app/api?username=Digao07&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false)
    
   </a>
 </div>
