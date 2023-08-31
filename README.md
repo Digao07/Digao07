@@ -20,7 +20,8 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=digao07&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Digao07) [<img src='https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=digao07&layout=compact&theme=cobalt' height ='195'>](https://github.com/Digao07)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digao07)](https://github.com/Digao07/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digao07&layout=donut-vertical)](https://github.com/Digao07/github-readme-stats)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=digao07&bg_color=ffffff&color=000000&line=ff0000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
