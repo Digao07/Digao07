@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+seja+Bem-Vindo!;Me+chamo+Rodrigo+Barros!;Hello,+You're+Welcome!;I'm+Rodrigo+Barros!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
   Cursando Análise e Desenvolvimento de Sistemas.
+  
   ✔	Inglês Intermediario, Espanhol Intermediário.
   
  # Skills
